@@ -1,0 +1,30 @@
+election_year,election_date,party_name,party_abbr,ideology,fptp_seats,pr_seats,total_seats,total_seats_available,pr_votes,pr_vote_percentage,pr_threshold_met,party_rank,previous_rank,seat_change_from_previous,largest_party,pm_candidate,notes
+2017,2017-11-26,Communist Party of Nepal (Unified Marxist-Leninist),CPN-UML,Left/Communist,74,41,121,275,3340394,34.99,Yes,1,2,+44,No,KP Sharma Oli,Formed Left Alliance with Maoist Centre; merged into NCP in 2018
+2017,2017-11-26,Nepali Congress,NC,Centre-left/Social Democracy,23,40,63,275,3240474,33.95,Yes,2,1,-14,No,Sher Bahadur Deuba,Worst result after losing to Left Alliance; Deuba was incumbent PM
+2017,2017-11-26,Communist Party of Nepal (Maoist Centre),CPN-MC,Left/Communist,36,17,53,275,1303721,13.66,Yes,3,3,+4,No,Pushpa Kamal Dahal,Allied with UML in Left Alliance; later merged into NCP
+2017,2017-11-26,Rastriya Janata Party Nepal,RJP-N,Madhesh/Federalist,11,6,17,275,582848,6.11,Yes,4,N/A,N/A,No,Rajendra Mahato,Madhesh-based party; later merged into People's Socialist Party
+2017,2017-11-26,Sanghiya Samajbadi Forum Nepal,FSFN,Left/Federalist,10,6,16,275,525716,5.51,Yes,5,N/A,N/A,No,Upendra Yadav,Later merged into People's Socialist Party Nepal
+2017,2017-11-26,Rastriya Prajatantra Party,RPP,Right/Hindu Nationalist,1,0,1,275,196782,2.06,No,6,4,-7,No,Kamal Thapa,Failed to cross 3% PR threshold; represented as independent
+2017,2017-11-26,Naya Shakti Party,NSP,Left/Progressive,0,0,0,275,148297,1.55,No,7,N/A,N/A,No,Baburam Bhattarai,Left Left Alliance before elections; failed PR threshold
+2017,2017-11-26,Nepal Workers and Peasants Party,NWPP,Far-left/Communist,1,0,1,275,56141,0.59,No,8,N/A,N/A,No,Narayan Man Bijukchhe,Old communist party; won FPTP only; represented as independent in parliament
+2017,2017-11-26,Rastriya Janamorcha,RJM,Far-left,1,0,1,275,43138,0.45,No,9,N/A,N/A,No,Lilamani Pokharel,Failed PR threshold; represented as independent
+2017,2017-11-26,Others/Independents,IND,Mixed,8,0,8,275,0,0.00,No,10,N/A,N/A,No,N/A,Various small parties and independent candidates
+2022,2022-11-20,Nepali Congress,NC,Centre-left/Social Democracy,57,32,89,275,2715225,29.29,Yes,1,2,+26,Yes,Sher Bahadur Deuba,Formed alliance with Maoist Centre and others; emerged largest party
+2022,2022-11-20,Communist Party of Nepal (Unified Marxist-Leninist),CPN-UML,Left/Communist,44,34,78,275,2845641,30.69,Yes,2,1,-43,No,KP Sharma Oli,Got highest PR votes but fewer FPTP seats; UML contested alone
+2022,2022-11-20,Communist Party of Nepal (Maoist Centre),CPN-MC,Left/Communist,18,14,32,275,1175684,12.68,Yes,3,3,-21,No,Pushpa Kamal Dahal,Part of NC-led alliance; Dahal became PM in coalition government
+2022,2022-11-20,Rastriya Swatantra Party,RSP,Liberal/Reform,7,13,20,275,1130344,12.19,Yes,4,N/A,N/A,No,Rabi Lamichhane,Brand new party; impressive debut performance in first election
+2022,2022-11-20,Rastriya Prajatantra Party,RPP,Right/Hindu Nationalist,7,7,14,275,588849,6.35,Yes,5,6,+13,No,Rajendra Lingden,Strong comeback; advocates constitutional monarchy and Hindu state
+2022,2022-11-20,Janata Samajbadi Party Nepal,JSP,Left/Federalist,7,5,12,275,421314,4.54,Yes,6,4,-5,No,Upendra Yadav,Formed from merger of RJP-N and FSFN
+2022,2022-11-20,Janamat Party,JP,Madhesh/Federalist,1,5,6,275,394655,4.26,Yes,7,N/A,N/A,No,CK Raut,New Madhesh-based party led by former secessionist turned politician
+2022,2022-11-20,CPN Unified Socialist,CPN-US,Left/Socialist,10,0,10,275,224989,2.43,No,8,N/A,N/A,No,Madhav Kumar Nepal,Split from UML; failed PR threshold despite winning 10 FPTP seats
+2022,2022-11-20,Loktantrik Samajbadi Party,LSP,Left/Federalist,4,0,4,275,167367,1.80,No,9,5,-12,No,Mahantha Thakur,Failed PR threshold; won only FPTP seats
+2022,2022-11-20,Nagarik Unmukti Party,NUP,Federalist/Social,3,0,3,275,127716,1.38,No,10,N/A,N/A,No,Ranjita Shrestha,New party from Dang region; won 3 FPTP seats
+2022,2022-11-20,Nepal Workers and Peasants Party,NWPP,Far-left/Communist,1,0,1,275,75168,0.81,No,11,8,0,No,Narayan Man Bijukchhe,Retained one FPTP seat; failed PR threshold again
+2022,2022-11-20,Others/Independents,IND,Mixed,6,0,6,275,0,0.00,No,12,10,-2,No,N/A,5 independent candidates won FPTP seats
+2026,2026-03-05,Rastriya Swatantra Party,RSP,Liberal/Reform,125,57,182,275,5161289,47.80,Yes,1,4,+162,Yes,Balen Shah,Historic near-supermajority; highest PR vote share since mixed system introduced in 2008
+2026,2026-03-05,Nepali Congress,NC,Centre-left/Social Democracy,18,20,38,275,1756474,19.10,Yes,2,1,-51,No,Gagan Thapa,Worst-ever electoral defeat; party president Gagan Thapa lost his own seat
+2026,2026-03-05,Communist Party of Nepal (Unified Marxist-Leninist),CPN-UML,Left/Communist,9,16,25,275,1453140,13.40,Yes,3,2,-53,No,KP Sharma Oli,Worst-ever result; Oli lost his own constituency of Balkot
+2026,2026-03-05,Nepali Communist Party,NCP,Left/Communist,8,9,17,275,809964,7.50,Yes,4,3,-15,No,Pushpa Kamal Dahal,Formed from merger of Maoist Centre and CPN-US; Madhav Kumar Nepal lost his seat
+2026,2026-03-05,Shram Sanskriti Party,SSP,Left/Labour,3,4,7,275,384566,3.56,Yes,5,N/A,N/A,No,Harka Sampang,Brand new party; qualified as national party in debut election
+2026,2026-03-05,Rastriya Prajatantra Party,RPP,Right/Hindu Nationalist,1,4,5,275,329893,3.05,Yes,6,5,-9,No,Rajendra Lingden,Retained national party status; advocates Hindu state and monarchy
+2026,2026-03-05,Independent,IND,Independent,1,0,1,275,0,0.00,No,7,N/A,N/A,No,Mahabir Pun,Former Education Minister; backed by RSP; only independent to win
